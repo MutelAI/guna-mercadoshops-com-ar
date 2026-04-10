@@ -1,0 +1,10 @@
+{
+  "brand_personality": "Tranquil and nurturing wellness sanctuary with deep community roots in Córdoba",
+  "primary_color": "stone",
+  "secondary_color": "stone",
+  "hero_gradient": "from-emerald-100 via-teal-50 to-green-100",
+  "contact_gradient": "from-emerald-50 via-teal-25 to-green-75",
+  "font_heading": "Varela Round",
+  "font_body": "Nunito Sans",
+  "font_google_import": "@import url('https://fonts.googleapis.com/css2?family=Nunito+Sans:wght@300;400;500;600;700&family=Varela+Round&display=swap');"
+}
